@@ -21,7 +21,7 @@
 簡単なじゃんけんプログラムをPySimpleGUIを使いGUIアプリ化
 
 # PyPI
-GUIのモジュールとしてPySimpleGUIを使います
+Python GUIのモジュールとしてPySimpleGUIを使います
 
 ```pip
 $ pip install PySimpleGUI

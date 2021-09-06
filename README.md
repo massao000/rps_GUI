@@ -102,9 +102,3 @@ while True:
 window.close()
 ```
 
-[rps画像 いらすとや](https://www.irasutoya.com/2013/07/blog-post_5608.html)
-
-
-[PySimpleGUI GitHub](https://github.com/PySimpleGUI)
-
-[PySimpleGUIドキュメント](https://pysimplegui.readthedocs.io/en/latest/)

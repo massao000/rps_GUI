@@ -1,4 +1,3 @@
-# test
 <h1 align = "center">
   <br>
   <a href="img" ><img src = "https://user-images.githubusercontent.com/69783019/119460348-8aa9ac00-bd79-11eb-8afc-cbcc0d26c1f0.png" width="500" alt = " ArminC AutoExec ">
@@ -102,4 +101,10 @@ while True:
 
 window.close()
 ```
+  
+[rps画像 いらすとや](https://www.irasutoya.com/2013/07/blog-post_5608.html)
 
+
+[PySimpleGUI GitHub](https://github.com/PySimpleGUI)
+
+[PySimpleGUIドキュメント](https://pysimplegui.readthedocs.io/en/latest/)
